@@ -13,3 +13,6 @@ Digital-agencies / Marketing / PR / SEO, Internet shops, Internet services, Bank
 - Numpy
 - Matplotlib
 - Seaborn
+
+## 4. Results
+Linear Regression model is built using Sklearn and PyTorch frameworks. Both approaches give f1-score around 0.7, therefore it is possible to make predictions with relatively high accuracy on whether clients will have debt or not. Besides, the number of true positives and true negatives is almost the same, so data is balanced. 
